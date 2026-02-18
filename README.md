@@ -10,8 +10,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/EbukaOkorie/threat-hunting-scenario-tor)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/EbukaOkorie/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage 🧅)](https://github.com/EbukaOkorie/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Cross Check ❌)](https://github.com/EbukaOkorie/CrossCheck-ThreatHunt)**
 
 <hr/>
 
