@@ -23,7 +23,7 @@ I build and break things in cloud-based SOC environments to sharpen my detection
 
 ### ⚠️ Vulnerability Management Projects
 
-..Coming SOON
+- **[Vulnerability Management Program Implementation] (https://github.com/EbukaOkorie/Vulnerability-Management-Program/tree/main)**
 
 ---
 
