@@ -1,6 +1,6 @@
 # Chukwuebuka Okorie 🔐
 
-**SOC Analyst | Threat Hunter | Cloud Security**
+**IT Support Analyst | SOC Analyst | Threat Hunter | Cloud Security**
 
 MSc Cyber Security Technology · CompTIA Security+ · Google Cybersecurity Certificate
 
